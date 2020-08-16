@@ -2,7 +2,7 @@
 
 ## India's COVID Stats App in Flutter
 
-![App](https://media.giphy.com/media/SUzDgdplZwcLT33wbM/giphy.gif)
+![App](covid_app.gif)
 
 <br />
 
